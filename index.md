@@ -27,4 +27,14 @@ This is just an extension to the version 05. After a successful login, it shows 
 
 ### Version 07 - Encryption
 This version finally uses the encryption system. While registering user info in the `database` file, it stores an randomly generated key for each user. After that, it writes the encrypted version of the given password with that key. Now, during the login process it checks the password after decrypting it. *(+holds previous functionality)*
+```
+    // generating random encrption key
+    srand(time(0));
+    int key = 1 + (rand() % 100); // random value from 1 to 100
+    
+    encrypt(person.password, key);
+
+    log << person.password << ",";
+    log << key << endl;
+```
 
