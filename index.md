@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Version Descriptions
+You'll find these versions in the following repository.
 
-You can use the [editor on GitHub](https://github.com/RIR360/login-systems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Version 01
+It is the simplest program. It doesn't care about username and it can only check the hardcoded password `"qwerty99"`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Version 02
+It is similar to version 01. But it can recursively check the hardcoded password `"qwerty99"`.
 
-### Markdown
+### Version 03
+This version supports multiple users with different passwords. *(+holds previous functionality)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Version 04
+This version can read login information from normal text file. *(+holds previous functionality)*
 
-```markdown
-Syntax highlighted code block
+### Version 05
+Registration system starts from here. It can write registration info into the same normal text file it reads to get the login info. This version can dynamically increase the user informations. *(+holds previous functionality)*
 
-# Header 1
-## Header 2
-### Header 3
+### Version 06
+This is just an extension to the version 05. After a successful login, it shows user information on the screen. At the same time it shows some content written in `content.txt`. So, after a sucessful login someone can see the information. *(+holds previous functionality)*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Version 07 - Encryption
+This version finally uses the encryption system. While registering user info in the `database` file, it stores an randomly generated key for each user. After that, it writes the encrypted version of the given password with that key. Now, during the login process it checks the password after decrypting it. *(+holds previous functionality)*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RIR360/login-systems/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
