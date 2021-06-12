@@ -1,4 +1,4 @@
-The repository contains some different types of simple login systems programmed in c/c++ language. A new programmer could learn a lot by exploring this repository.
+The repository contains some different types of simple login systems programmed in c/c++ language. A new programmer could learn a lot by exploring this repository. All of the programs are written by [Rejwan Islam Rizvy](https://github.com/RIR360).
 
 ## Preview
 <p align="center">
