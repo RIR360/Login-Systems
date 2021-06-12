@@ -1,7 +1,21 @@
 The repository contains some different types of simple login systems programmed in c/c++ language. A new programmer could learn a lot by exploring this repository.
 
 ## Preview
-![image](https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png)
+<p align="center">
+    <img width="70%" src="https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png"/>
+</p>
+
+
+## Code lines comparison
+| Version | Lines |
+| ------------- | ------------- |
+| Version-01  | 33  |
+| Version-02  | 64  |
+| Version-03  | 88  |
+| Version-04  | 104  |
+| Version-05  | 187  |
+| Version-06  | 254  |
+| Version-07  | 309  |
 
 ## Version Descriptions
 You'll find these versions in the following repository.
@@ -37,4 +51,5 @@ This version finally uses the encryption system. While registering user info in 
     log << person.password << ",";
     log << key << endl;
 ```
+
 
