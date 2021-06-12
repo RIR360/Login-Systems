@@ -9,8 +9,8 @@ The repository contains some different types of simple login systems programmed 
 ## Code lines comparison
 <table border="1">
     <tr>
-        <th>Version</th>
-        <th>Lines</th>
+        <th text-align="center">Version</th>
+        <th text-align="center">Lines</th>
     </tr>
     <tr>
         <th>Version-01</th>
