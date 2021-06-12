@@ -7,15 +7,40 @@ The repository contains some different types of simple login systems programmed 
 
 
 ## Code lines comparison
-| Version | Lines |
-| ------------- | ------------- |
-| Version-01  | 33  |
-| Version-02  | 64  |
-| Version-03  | 88  |
-| Version-04  | 104  |
-| Version-05  | 187  |
-| Version-06  | 254  |
-| Version-07  | 309  |
+<table border="1">
+    <tr>
+        <th>Version</th>
+        <th>Lines</th>
+    </tr>
+    <tr>
+        <th>Version-01</th>
+        <th>33</th>
+    </tr>
+    <tr>
+        <th>Version-02</th>
+        <th>64</th>
+    </tr>
+    <tr>
+        <th>Version-03</th>
+        <th>88</th>
+    </tr>
+    <tr>
+        <th>Version-04</th>
+        <th>104</th>
+    </tr>
+    <tr>
+        <th>Version-05</th>
+        <th>187</th>
+    </tr>
+    <tr>
+        <th>Version-06</th>
+        <th>254</th>
+    </tr>
+    <tr>
+        <th>Version-07</th>
+        <th>309</th>
+    </tr>
+</table>
 
 ## Version Descriptions
 You'll find these versions in the following repository.
