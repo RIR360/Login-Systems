@@ -9,36 +9,44 @@ The repository contains some different types of simple login systems programmed 
 ## Code lines comparison
 <table border="1">
     <tr>
-        <th text-align="center">Version</th>
+        <th text-align="center">Version Number</th>
         <th text-align="center">Lines</th>
+        <th text-align="center">Language</th>
     </tr>
     <tr>
-        <th>Version-01</th>
-        <th>33</th>
+        <td>Version-01</td>
+        <td>33</td>
+        <td>C</td>
     </tr>
     <tr>
-        <th>Version-02</th>
-        <th>64</th>
+        <td>Version-02</td>
+        <td>64</td>
+        <td>C</td>
     </tr>
     <tr>
-        <th>Version-03</th>
-        <th>88</th>
+        <td>Version-03</td>
+        <td>88</td>
+        <td>C</td>
     </tr>
     <tr>
-        <th>Version-04</th>
-        <th>104</th>
+        <td>Version-04</td>
+        <td>104</td>
+        <td>C++</td>
     </tr>
     <tr>
-        <th>Version-05</th>
-        <th>187</th>
+        <td>Version-05</td>
+        <td>187</td>
+        <td>C++</td>
     </tr>
     <tr>
-        <th>Version-06</th>
-        <th>254</th>
+        <td>Version-06</td>
+        <td>254</td>
+        <td>C++</td>
     </tr>
     <tr>
-        <th>Version-07</th>
-        <th>309</th>
+        <td>Version-07</td>
+        <td>309</td>
+        <td>C++</td>
     </tr>
 </table>
 
